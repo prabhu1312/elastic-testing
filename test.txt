@@ -1,0 +1,1 @@
+Testing elastic native connector syncing
